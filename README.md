@@ -4,6 +4,8 @@
   <img alt="salva1984 — retrato ASCII, estudios, lenguajes y contacto" src="dark_mode.svg" width="100%">
 </picture>
 
+<img src="https://a90.com/experiments/88x31/pelican.gif" width="88" height="31" alt="A pelican riding a bicycle. State of the art benchmark.">
+
 ## Mis proyectos
 <img alt="Static Badge" src="https://img.shields.io/badge/niche-problems-blue">
 
